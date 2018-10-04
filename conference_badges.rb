@@ -21,6 +21,6 @@ new
 end
 
 def printer(x)
- puts batch_badge_creator(x)
-  puts assign_rooms(x)
+ x.each do |a|
+   puts batch_badge_creator[a]
 end
