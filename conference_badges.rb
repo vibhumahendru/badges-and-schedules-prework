@@ -24,3 +24,4 @@ def printer(x)
  x.each do |a|
    puts batch_badge_creator[a]
 end
+end
