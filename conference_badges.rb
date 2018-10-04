@@ -20,6 +20,6 @@ end
 new
 end
 
-def printer(x)
-
+def printer(array)
+puts batch_badge_creator(array)[0]
 end
