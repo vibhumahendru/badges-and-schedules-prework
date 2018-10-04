@@ -20,6 +20,6 @@ end
 new
 end
 
-def printer
+def printer(x)
 
 end
