@@ -21,6 +21,6 @@ new
 end
 
 def printer
-  batch_badge_creator(x)
-  assign_rooms(x)
+ puts batch_badge_creator(x)
+  puts assign_rooms(x)
 end
