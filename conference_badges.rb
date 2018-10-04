@@ -4,4 +4,4 @@ def badge_maker(name)
   x
 end
 
-def conference_badges()
+def ()
